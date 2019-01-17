@@ -1,2 +1,2 @@
 # Deep Learning with PyTorch
-Udacity PyTorch Scholarship Challenge
+Resources and programming exercise submissions for the PyTorch Scholarship Challenge from Udacity
