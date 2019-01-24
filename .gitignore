@@ -1,0 +1,12 @@
+*.tar.gz
+*.tar
+
+
+**/*.tar.gz
+**/*.tar
+
+
+*.pth
+*.pt
+**/*.pth
+**/*.pt
